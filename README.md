@@ -1,31 +1,18 @@
+Hi, I'm Mihaita Braes 👋
 
-Hi, I’m Mihaita Braes 👋
+I studied Telecommunications Engineering, spent 6+ years in Product Management across fintech and mobile, and I'm now going deeper into the technical layers that actually interest me most — Data Science, AI, and cloud architecture.
 
-I’ve always been drawn to where technology meets creativity.
-I studied Electronics Engineering, spent the last five years in Product Management (mostly Fintech and SaaS), and now I’m rekindling my technical side through web development.
-
-
-🎯 What I’m Doing Here
-
-Learning modern full-stack development with a focus on frontend and visual design.
-I love building interfaces that feel intuitive and look beautiful — it’s where my technical and artistic sides overlap.
+🎯 What I'm Doing Here
+Building at the intersection of product thinking and data. I'm not here to collect certificates — I'm here to understand how data products actually work from the inside, so I can build and lead them better.
 
 Current Focus:
 
-•	⚛️ React and JavaScript
+🐍 Python — Pandas, NumPy, data manipulation and analysis
+📊 Data Science fundamentals — statistics, probability, experimentation
+🤖 AI & LLM integration — agentic workflows, RAG, MCP
+☁️ Cloud & data infrastructure — AWS, Databricks ecosystem
 
-•	🎨 Tailwind CSS for styling that brings interfaces to life
+🧠 What You'll Find
+Personal projects, data experiments, and AI-powered tools. Everything here reflects a genuine curiosity about how data and AI can drive better product decisions.
 
-•	🧩 Full-stack architecture — understanding how systems work end-to-end
-
-•	🌌 Three.js for rich, interactive visual experiences
-
-
-🧠 What You’ll Find
-
-Personal projects, learning experiments, and whatever I’m curious about at the moment.
-First project: a family budgeting app that doesn’t make you want to close it immediately.
-
-
-💬 This is my learning journal, not a portfolio.
-Everything here is a work in progress.
+💬 This is a working journal of someone who already ships products and is now going deeper into the data layer that powers them.
