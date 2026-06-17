@@ -9,9 +9,9 @@ Building at the intersection of product thinking and data. I'm not here to colle
 **Current Focus:**
 
 - 🐍 Python — Pandas, NumPy, data manipulation and analysis
-- 📊 Data Science fundamentals — statistics, probability, experimentation
+- 📊 Data Science — statistics, probability, experimentation
 - 🤖 AI & LLM integration — agentic workflows, RAG, MCP
-- ☁️ Cloud & data infrastructure — AWS, Databricks ecosystem
+- ☁️ Cloud & data infrastructure — AWS, Google Cloud, Databricks ecosystem
 
 ## What You'll Find
 
